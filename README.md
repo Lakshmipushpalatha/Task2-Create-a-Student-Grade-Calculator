@@ -3,13 +3,6 @@ java calculation
 
 Student Grade Calculator – Java
 
-Internship Details
-
-- Internship: Java Programming Internship
-- Organization: Veda Technology
-- Task: Task 2 – Student Grade Calculator
-- Programming Language: Java
-
 Project Description
 
 The Student Grade Calculator is a simple Java application that accepts marks for multiple subjects and calculates the student's total marks, percentage, and grade.
